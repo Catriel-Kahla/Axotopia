@@ -4,7 +4,7 @@
   box-sizing: border-box; }
 
 body {
-  background-image: url("images/back.jpg");
+  background-image: url("/images/back.jpg");
   background-repeat: no-repeat;
   backdrop-filter: blur(5px);
   width: 100vw;
@@ -19,14 +19,14 @@ main {
 
 .logo {
   margin-top: 8vh;
-  height: 15vh; }
+  height: 7.5em; }
 
 .ds {
   position: absolute;
   top: 1vh;
-  right: 1vw;
+  right: 1em;
   height: 10vh;
-  background-color: #ffffff3a;
+  background-color: #20fa564d;
   border-radius: 10%;
   cursor: pointer; }
 
